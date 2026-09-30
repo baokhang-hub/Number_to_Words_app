@@ -1,0 +1,1 @@
+rootProject.name = "Number_to_word_converter_app"
